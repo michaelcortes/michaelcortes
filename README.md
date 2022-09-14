@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+Hi I'm Michael and I use HTML, CSS, JS and PYTHON y hope that you find useful my public repos!
+
+
+- 🔭 I’m currently working how Freelance
+- 🌱 I’m currently learning about web development
+- 👯 I’m looking to collaborate in some project that use technologies about the web
 
 <!--
 **michaelcortes/michaelcortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
